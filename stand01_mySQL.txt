@@ -1,0 +1,1 @@
+ich übernehme den MySQL Teil des RPG. Hier werde ich eine Datenbank erstellen mit der ich Sachen wie Items, Quests, 
