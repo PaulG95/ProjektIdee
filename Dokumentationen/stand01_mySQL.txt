@@ -1,0 +1,9 @@
+Da wir ein RPG erstellen wollen brauchen wir eine datenbank, wo die grundlegenden Daten gespeichert werden auf die der Spieler, so also auch das Programm zu einer bestimmten Zeit zugriff haben muss.
+Hierzu zählen die Namen der Charaktere, Items und deren Bonus Funktionen, Namen der NPCs wie auch deren Text wenn man Sie anspricht, Quests, Speicherplätze um den Fortschritt des Spielers fest zu halten und später zu verfügung zu stellen und eben auch alle anderen Informationen die für den betrieb eines Spiels vorhanden sein müssen.
+Dies könnten Informationen sein wie:
+Name Char1: Finn; 
+Name NPC1: Gandalf;
+Gegner: Blob;
+Waffe: Altes Schwert [ANG + 5];
+und vieles mehr.
+Des weiteren werden Aspekte in den Datenbanken auftauchen die bis jetzt noch nicht klar sind durch den Umfang den ein Spiel besitzt und dadurch das ich mit MySQL noch nie gearbeitet habe.
