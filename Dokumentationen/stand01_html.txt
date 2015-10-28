@@ -1,0 +1,13 @@
+Der Startbildschirm soll in 2 Spalten organisiert sein. Über diesen Spalten soll eine querformatiege Bildfläche gezeigt sein, 
+die eventuell Bilder des Spieles anzeigt und den Titel.
+Darunter in der linken Spalte sollen verschiedene Schaltoptionen verfügbar sein, so zum Beispiel die oblikatorischen 
+"Neues Spiel starten", oder "Spielsstand laden" Optionen.
+In der rechten Spalte können optional noch Videos, Gameplays oder Bilder deiines eigenen letzten Spielstandens anzeigen.
+
+Wenn das Spiel dann startet, soll auf dem Bildschirm zum einen der zentrierte Charakter zusehen sein der auf einer Schachbrett-ähnlichem
+Welt herumläuft. Zusätzlich sollen einige features am Bildschirmrand zusehen sein. Beispielsweise könnte ein Feld, am unteren
+Bildschirmrand angeheftet sein, die den Inhalt des Inventares zeigt. Andere Optionen sind eine Lebens-Anzeige oder eine Energie-Anzeige,
+sowie eine Button die aktivierten, unabgeschlossenen Quests zu öffnen etc..
+
+Die Bewegung des Characters, sowie die Daten Speicherung werden dann über PHP und MYSQL eingebracht und mit dem Grundgerüst von HTML 
+eingebunden
