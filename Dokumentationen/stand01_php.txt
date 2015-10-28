@@ -1,0 +1,11 @@
+Unser Spiel soll ein 2D-Rollenspiel werden. 
+Von daher werden wir Charaktere haben die sich bewegen müssen, das heißt auf bestimmte Tastendrücke müssen Bewegungen simuliert werden. 
+Weiterhin wollen wir Interaktionen mit der Welt möglich machen (Kisten öffnen, Schalter betätigen, Spezialfähgikeiten anwenden),
+was bedeutet auf weitere Tastendrücke müssen diese Aktionen ausgeführt werden (Beispiel Kiste öffnen: Mit x wird sie geöffnet und ein
+Textfenster mit beschreibendem Text wird geöffnet).
+Wir wollen ein Kampfsystem entwickeln, das außerhalb des Spiels stattfindet. Dafür brauchen wir eine Art randomcounter der nach
+einer zufälligen Anzahl an Schritten einen Kampf startet. Der Kampf ist dann eine neue Seite und bietet verschiedene Möglichkeiten
+die jeweils mit Enter und den Pfeiltasten angewählt werden. Hierzu muss also erkannt werden wo sich der Cursor befindet und was er anwählt
+und dann die Entsprechende Aktion (Angreifen/Laufen/Zauber/ähnliches) ausgeführt werden.
+
+Eventuell kommen noch weitere Funktionalitäten dazu.
