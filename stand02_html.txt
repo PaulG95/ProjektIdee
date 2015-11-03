@@ -1,0 +1,38 @@
+//HTML
+<!doctype html!>
+
+<html lang=de>
+
+<head>
+	<link rel=stylesheet href=style.css>
+	<title>Praeterra</title>
+	<style>
+	</style>
+</head>
+
+<body> 
+	<figure>
+		<img src="C:\Users\Paul\Pictures\NZ\Meine Bilder\Merith und ich\5 Tongariro\20150125_152010.jpg" alt="Landschaftsbild" height="400" width="1660" align= "center">
+
+	</figure>
+	<main>
+		<h1>Praeterra</h1>
+		<input type="button" onclick= //link zu neuer Seite
+		<p>Neues Spiel</p>
+		<input type="button" onclick= //link zu anderer Seite
+		<p>Spiel Laden</p>
+	</main>
+</body>
+
+//CSS
+body {
+	background-color:lightblue
+}
+
+h1 {
+	color: ; white
+	text-align: center;
+	font-family: Palatino;
+	font-size: 50px;
+}
+
