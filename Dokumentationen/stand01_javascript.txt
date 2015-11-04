@@ -1,0 +1,55 @@
+Ich habe mich dazu entschieden von nun an anstelle von PHP mit Javascript zu arbeiten.
+
+Dies hat den Grund, dass ich der Meinung bin, dass Javascript für unser Vorhaben wesentlich brauchbarer ist, als PHP. 
+Ich habe mich die letzten Wochen mit PHP vertraut gemacht und auch mein bereits bestehendes Hintergrundwissen über PHP genutzt 
+und wieder aufgefrischt und hatte keine wirkliche Vorstellung, wie ich unser Spiel nur mit Hilfe von PHP gut umsetzen sollte.
+
+Da ich aber früher bereits mal in Javascript programmiert habe, wollte ich den Sprung auf Javascript wagen. Von damals ist
+mir noch bewusst, dass unsere Ziele damit definitiv realisierbar sind. Ich habe mich auch bereits wieder in Javascript eingelesen.
+
+Was bedarf unser Spiel?
+
+Bewegung eines Charakters:
+
+Die Spielfigur soll sich durch drücken von W A S D durch die Welt bewegen können.
+
+Dafür brauchen wir eine Funktion die die Bewegung ermöglicht.
+
+Interaktion mit der Welt:
+
+Wir wollen ermöglichen, dass man mit der Welt interagieren kann. Darunter fallen:
+-Sprechen mit NPC's
+-Öffnen von Kisten
+-Schalter umlegen
+
+Hierfür benötigen wir eine Aktionstaste (Enter), die jedes Mal überprüft ob gerade eine Interaktion möglich ist und wenn ja diese
+ausführt.
+
+Gebietwechsel:
+
+Sobald man in ein anderes Gebiet geht, muss das neue Gebiet aufgerufen werden.
+
+Kampfsystem:
+
+Wir wollen ein Kampfsystem erstellen, das rundenbasiert ist und verschiedene Befehle ausführbar macht.
+-Angreifen
+-Zauber/Fähigkeiten
+-Laufen
+
+Für jede dieser Optionen braucht es verschiedene Variablen, zb. den Angriffs- und Rüstungswert, die einsetzbaren Fähigkeiten oder
+einen Fluchtwert. Diese müssen dann jeweils mit den Werten der Gegner verrechnet werden.
+Darüber hinaus haben die Charaktere noch Werte für Leben und Mana oder ähnliches. Auch diese werden im Kampf immer neu berechnet.
+
+Das Gleiche gilt für die Gegner.
+Für jeden Gegner brauchen wir diese Werte. 
+
+Spielverlauf:
+
+Um den Spielverlauf beeinflussen zu können, also zb nicht jedes Gebiet direkt begehbar zu machen oder dafür zu sorgen, dass
+bestimmte Aktionen im Spiel erst passieren sobald andere Sachen erledigt wurden (zb. darf man erst eine Brücke passieren, wenn
+man Gegner XYZ besiegt hat), brauchen wir Variablen die wir zu bestimmten Zeitpunkten ändern um so neue Gebiete oder ähnliches
+begehbar zu machen.
+
+
+Änderungen sind vorbehalten. Es ist gut möglich, dass sich während der Programmierarbeiten neue Funktionen einschleichen oder alte
+erstetzt werden oder ähnliches.
