@@ -1,0 +1,119 @@
+Hier eine Liste für Items und Zauber:
+
+Leichter Heiltrank:
+Fkt: +30HP;
+Kosten: 30G;
+
+Leichter Manatrank:
+Fkt: +20HP;
+Kosten: 200G;
+
+Wiederbelebungs Kristal:
+Fkt: Holt einen Character zurüch zu den lebenden;
+Kosten: 800G;
+
+Rotwurzel:
+Fkt: Heilt Vergiftungen;
+Kosten: 150G;
+
+Schwacher Heiltrank:
+Fkt: +80HP;
+Kosten: 75G;
+
+Leichte Tunika:
+Fkt: Rüstung +4;
+Kosten: 80G;
+
+Hölzenerpanzer:
+Fkt: Rüstung +6;
+Kosten: 110G;
+
+Bendana:
+Fkt: Rüstung +1;
+Kosten: 30G;
+
+Stoff Armschützer:
+Fkt: Rüstung +2;
+Kosten: 60G;
+
+Tunika:
+Fkt: Rüstung +8;
+Kosten: 220G;
+
+Bronzener Brustpanzer:
+Fkt: Rüstung +10;
+Kosten: 265G;
+
+Stoffkappe:
+Fkt: Rüstung +3;
+Kosten: 110G;
+
+Ledener Armschützer:
+Fkt: Rüstung +4;
+Kosten: 170G;
+
+Kurzer Speer;
+Fkt: Schaden +7, Krit +11;
+Kosten: 180G;
+
+Knochen Messer;
+Fkt: Schaden +6, Krit +12;
+Kosten: 170G;
+
+Steinschloß Gewehr:
+Fkt: Schaden +8, Krit +10;
+Kosten: 200G;
+
+Fecht Speer;
+Fkt: Schaden +10, Krit+14;
+Kosten: 450G;
+
+Bronze Messer;
+Fkt: Schaden +9, Krit +16;
+Kosten: 430G;
+
+Donnerbüchse:
+Fkt: Schaden+12;
+Kosten: 465G;
+
+Feuerzauber:
+
+Explosion:
+Fkt: Schaden +18; Krit +20;
+Kosten: 4MP;
+
+Feuerbälle:
+Fkt; Schaden +13; Krit +18;
+Kosten: 2MP;
+
+Flammenklinge:
+Fkt: Waffenschaden +3;
+Kosten: 3MP;
+
+Erdzauber:
+
+Wurzelgeflecht:
+Fkt: Rüstung -3;
+Kosten: 2MP;
+
+Schlammball:
+Fkt: Schaden +15, Krit +22;
+Kosten: 4MP;
+
+Erdrüstung:
+Fkt: Rüstung +2;
+Kosten: 3MP;
+
+Schattenzauber:
+
+Blenden: 
+Fkt: Trefferqoute -30%;
+Kosten: 3MP;
+
+Natterngift:
+Fkt: Jeder Runde 9 Schadenspunkte;
+Kosten: 4MP;
+
+Schattenspeer:
+Fkt: Schaden +12, Krit +16;
+Kosten: 2MP;
