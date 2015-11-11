@@ -1,0 +1,7 @@
+Ich habe nun zuletzt Verlinkungen in den Code integriert, um von der Startseite
+per Mausklick auf eine neue Seite geleitet zuwerden, wo dann das Spiel stattfinden
+soll. Zudem habe ich versucht eine Funktion zu integrieren, um bei Anklicken des
+Buttons 'Spielstände' eine Auflistung der Spielstände angezeigt zukriegen. Diese
+Funktion ist leider noch nicht ausgereift.
+Außerdem soll auf der Startseite in der Mitte ein Bildschirm zusehen sein, wo
+Die Seite zusehen ist, auf der gespielt wird. Das funktioniert schon.
