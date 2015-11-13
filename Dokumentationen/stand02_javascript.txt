@@ -12,3 +12,5 @@ gab es leider nicht allzu viel neues was sich zu pushen lohnte.
 
 
 https://www.youtube.com/watch?v=Gtn807pq1Vs (Tutorial, geprüft am 13.11.2015 13:18)
+
+Edit.: Die index.html Seite in dem Tutorial Ordner ist lediglich als Test für mein Javascript gedacht, ich habe nichts weiter mit der HTML Programmierung zu tun - das ist Pauls Aufgabe.
