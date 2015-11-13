@@ -1,0 +1,14 @@
+In den letzten zwei Wochen habe ich mich intensiver mit dem Thema Javascript auseinander gesetzt.
+Um diese Sprache zu lernen habe ich ein Buch zur Hilfe gezogen und zeitgleich ein Youtube-Tutorial durchgearbeitet. Dies
+geht 1 1/2 Stunden (siehe Link unten), dauer aber wesentlich länger wenn man den Umfang und den Inhalt komplett durchringen möchte.
+Gerade letzteres hat mir sehr geholfen zu verstehen wie ich mit Javascript zielführend arbeiten kann.
+Im Code - Ordner habe ich die Datei angelegt in der ich mich mit dem Stoff des Tutorials auseinander gesetzt habe und diesen auch leicht
+geändert habe. 
+So habe ich beispielsweise eigene Grafiken benutzt um ein Gefühl dafür zu entwickeln, wie es sich in dem Projekt handhabt.
+
+Insgesamt habe ich 9 Stunden daran gearbeitet mein Javascript-Wissen zu vertiefen und nun durchstarten zu können - Währenddessen
+gab es leider nicht allzu viel neues was sich zu pushen lohnte.
+
+
+
+https://www.youtube.com/watch?v=Gtn807pq1Vs (Tutorial, geprüft am 13.11.2015 13:18)
