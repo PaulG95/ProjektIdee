@@ -1,0 +1,10 @@
+Arbeitsprotokoll 16.11.2015:
+
+17:30-18:30:
+
+Ich habe daran gearbeitet, eine erste Karte zu erstellen auf der ich vorerst möglichst viele Funktionalitäten des Spiels testen möchte.
+Da das Laufen die Basis von allen ist, habe ich damit angefangen dieses zu Programmieren. Man kann nun momentan auf der Karte
+mit Hilfe der Pfeiltasten gehen. Das Ganze sieht leider noch sehr unschön aus. Im nächsten Schritt möchte ich daran arbeiten, dass
+dabei eine Animation abgespielt wird. 
+
+Pause.
