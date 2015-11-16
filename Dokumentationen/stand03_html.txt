@@ -1,0 +1,119 @@
+Ich habe nun zuletzt Verlinkungen in den Code integriert, um von der Startseite
+per Mausklick auf eine neue Seite geleitet zuwerden, wo dann das Spiel stattfinden
+soll. Zudem habe ich versucht eine Funktion zu integrieren, um bei Anklicken des
+Buttons 'Spielstände' eine Auflistung der Spielstände angezeigt zukriegen. Diese
+Funktion ist leider noch nicht ausgereift.
+Außerdem soll auf der Startseite in der Mitte ein Bildschirm zusehen sein, wo
+Die Seite zusehen ist, auf der gespielt wird. Das funktioniert schon.
+
+==>Startseite:
+
+<!doctype html!>
+
+<html lang=de>
+
+	<head>
+		<link rel=stylesheet href=stylest.css>
+		<title>Praeterra</title>
+
+	</head>
+
+	<body> 
+		<header>
+
+			<figure>
+				<img src="C:\Users\Paul\Desktop\Projekt\20150125_152010.jpg" alt="Landschaftsbild" height="400" width="1660" align= "center">
+			</figure>
+		</header>
+		<main>
+			<nav>
+				<h1>Praeterra</h1>
+			</nav>
+			
+			<section>
+					<button type="button">
+					<a href="C:\Users\Paul\Desktop\Projekt\Projekt_DasSpiel.html">Neues Spiel</a>
+					</button>
+					
+					<br>
+					
+					
+					<button type="submit" formaction="myFunction()">
+					<p>Spiel Laden</p>
+					</button>
+					
+					<script>
+					function myFunction() {
+					
+        }
+			</section>
+			
+			<iframe src="C:\Users\Paul\Desktop\Projekt\Projekt_DasSpiel.html" width="1000" height="500"></iframe>
+			
+			<aside><i>
+				<h2>Deine Speicherstände</h2>
+					<p>1. Spielstand</p>
+					<p>2. Spielstand</p>
+					<p>3. Spielstand</p>
+				</i>
+			</aside>
+		</main>
+	</body>
+</html>
+
+==>CSS Seite hierzu:
+
+body {
+	background-color:lightblue;
+}
+
+nav {
+	background-color:darkgrey;
+	text-align:center;
+	color:white;
+	font-family: Palatino;
+	font-size: 50px;
+}
+
+button {
+	font-size:30px;
+	color:black;
+	padding:5px;
+}
+section {
+    line-height:30px;
+    background-color:darkgrey;
+	color: white;
+    width:300px;
+	heigth:500px;
+    float:left;
+    padding:10px; 
+	font-family: Palatino;
+	font-size: 30px;
+}
+
+aside{
+	background-color:white;
+	color:grey;
+	font-family: Palatino;
+	font-size: 18px;
+	width:300px;
+	heigth:500px;
+    float:right;
+    padding:10px; 
+}
+
+==>Die Erste Spielseite:
+
+<!doctype html!>
+
+<html lang=de>
+
+	<head>		
+		<link rel=stylesheet href=stylesp.css>
+		<title>Das Spiel</title>
+	</head>
+	<body>
+
+	</body>
+</hmtl>
