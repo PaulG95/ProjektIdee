@@ -1,0 +1,39 @@
+body {
+	background-color:lightblue;
+}
+
+nav {
+	background-color:darkgrey;
+	text-align:center;
+	color:white;
+	font-family: Palatino;
+	font-size: 50px;
+}
+
+a {
+	font-size:30px;
+	color:black;
+	padding:5px;
+}
+section {
+    line-height:30px;
+    background-color:darkgrey;
+	color: white;
+    width:300px;
+	heigth:500px;
+    float:left;
+    padding:10px; 
+	font-family: Palatino;
+	font-size: 30px;
+}
+
+aside{
+	background-color:white;
+	color:grey;
+	font-family: Palatino;
+	font-size: 18px;
+	width:300px;
+	heigth:500px;
+    float:right;
+    padding:10px; 
+}
