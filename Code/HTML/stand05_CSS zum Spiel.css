@@ -1,0 +1,42 @@
+header {
+	background-color:#802b00;
+	color:grey;
+	text-align:center;
+	font-family: Palatino;
+	font-size: 30px;
+	width:100%;	
+	height:50px;
+}
+section {
+	float:left;
+}
+aside {
+	float:right;
+	height:800px;
+	width:480px;
+	background-color:#802b00;
+}
+table, tr, th {
+	background-color:#4d1a00;
+	border:5px solid black;
+	border-bottom-color: #cc4500;
+}	
+button{
+	float:center-left;
+	padding:5px;
+	border: 5px white;
+	background-color:#e64d00;
+	border-bottom-color:#e64d00;
+}
+a {
+	font-size:30px;
+	color:black;
+}
+footer {
+	background-color:#802b00;
+	clear:both;
+}
+p {
+	font-size:30px;
+	color:black;
+}
