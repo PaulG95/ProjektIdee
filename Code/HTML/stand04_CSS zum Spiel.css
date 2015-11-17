@@ -1,0 +1,22 @@
+section {
+	float:center;
+}
+
+nav {
+	line-height:0px;
+	float:right;
+	padding:20px;
+	background-color:grey;
+	height:800px;
+	width:200px;
+}
+
+a {
+	font-size:30px;
+	color:black;
+}
+
+p {
+	font-size:30px;
+	color:black;
+}
